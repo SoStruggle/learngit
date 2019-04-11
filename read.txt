@@ -1,1 +1,1 @@
-git is freegit is control
+git is statusgit is control
