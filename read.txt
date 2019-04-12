@@ -1,1 +1,1 @@
-git is statusgit is control
+git is status
